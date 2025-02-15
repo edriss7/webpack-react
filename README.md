@@ -1,0 +1,1 @@
+This is a barebone react with typescript and webpack set up.
